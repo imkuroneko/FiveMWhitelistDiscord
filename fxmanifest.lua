@@ -7,5 +7,5 @@ version      '1.0.0'
 server_only  'yes'
 -----------------------------------
 server_scripts {
-    'logger.lua'
+    'server.lua'
 }
